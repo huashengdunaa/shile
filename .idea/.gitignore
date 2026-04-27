@@ -7,3 +7,8 @@
 /dataSources/
 /dataSources.local.xml
 /gitConf.txt
+*.class                # Java 编译文件
+*.jar                  # Java JAR 文件
+*.war                  # Java WAR 文件
+*.ear                  # Java EAR 文件
+*.class                # Java 类文件
